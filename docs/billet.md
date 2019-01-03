@@ -19,7 +19,6 @@
 ## Support
  - Support de la présentation : support non donné et conférence non filmé (voir http://www.leguedois.fr/pourquoi-les-conferences-ne-sont-pas-filmees/)
  - Nombre de diapos du support : 2
- - Plan du support :
 
 ## Résumé
 
