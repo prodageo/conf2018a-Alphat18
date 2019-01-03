@@ -34,6 +34,7 @@ Le présentateur s'est ensuite attaché à dénombrer les avantages de la pratiq
   * La communication orale est bien plus efficace qu'une communication écrite (exemple: documentation).
   * Meilleure transmission des connaissances.
   * Meilleure intégration pour un nouveau développeur.
+
 Tout ces avantages amène selon lui au final un réel gain en termes de productivité. Le seul désavantage qu'il a mentionné concerne la fatigue occasioné par un travail en pair. Cela demande en effet plus de concentration dans l'ensemble.
 
 
