@@ -14,7 +14,7 @@
  - Mots-clés : *Binôme* - *Feedback* - *Équipe* - *Pair programming*
  - URL de l'illustration :
 
- ![Pair programming](https://github.com/prodageo/conf2018a-jwacyk/blob/master/docs/pair-programming.jpg)
+ ![Pair programming](https://github.com/prodageo/conf2018a-jwacyk/blob/master/docs/pair_programming.jpg)
 
 ## Support
  - Support de la présentation : support non donné et conférence non filmé (voir http://www.leguedois.fr/pourquoi-les-conferences-ne-sont-pas-filmees/)
