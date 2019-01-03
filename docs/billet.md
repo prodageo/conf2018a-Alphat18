@@ -18,11 +18,23 @@
 
 ## Support
  - Support de la présentation : support non donné et conférence non filmé (voir http://www.leguedois.fr/pourquoi-les-conferences-ne-sont-pas-filmees/)
- - Nombre de diapos du support : 0
+ - Nombre de diapos du support : 2
  - Plan du support :
 
 ## Résumé
 
+Après une courte explication de ce qu'est le pair programming (programmation à deux sur un seul ordinateur), le présentateur s'est attaché à décrire les différentes façons pour l'implémenter dans une entreprise. Il précise que la plupart du temps, un programmeur nouveau ou qui n'est pas encore qualifié sur une technologie va travailler directement sur le même poste avec une personne qui elle  maitrise bien le sujet. Ainsi, le pair programming va faire office de formation efficace.
+
+Le présentateur s'est ensuite attaché à dénombrer les avantages de la pratique du pair programming comparé à une programmation plus traditionnelle:
+  * Correction rapide des fautes de frappes.
+  * Génération de 2 fois plus d'idées.
+  * Le code généré sera de meilleure qualité.
+  * Tous les développeurs participent à la création d'une fonctionnalité.
+  * Evite les dépendances à un développeur en particulier.
+  * La communication orale est bien plus efficace qu'une communication écrite (exemple: documentation).
+  * Meilleure transmission des connaissances.
+  * Meilleure intégration pour un nouveau développeur.
+Tout ces avantages amène selon lui au final un réel gain en termes de productivité. Le seul désavantage qu'il a mentionné concerne la fatigue occasioné par un travail en pair. Cela demande en effet plus de concentration dans l'ensemble.
 
 
 ## Architecture et facteur qualité
